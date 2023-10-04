@@ -78,5 +78,8 @@ module.exports = {
       },
     ]
   },
+  optimization: { // Добавьте этот раздел
+    minimize: false
+  },
   plugins: []
 };
