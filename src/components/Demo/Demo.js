@@ -1,5 +1,5 @@
 import React from "react";
 
-const Demo = () => <div>Demo component</div>;
+const Demo = () => <h1>Demo component</h1>;
 
 export default Demo;
